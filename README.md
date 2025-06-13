@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mahdi Rajaee
+# 👋 Hello, I'm Mahdi AKA Matt
 
 <div align="center">
 
@@ -144,12 +144,6 @@ I'm a passionate **Full-Stack Developer** specializing in **real-world applicati
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdirajaee&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdirajaee&layout=compact&langs_count=7&theme=radical"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdirajaee&theme=radical" alt="GitHub Streak" />
 
 </div>
 
