@@ -118,7 +118,7 @@ MSc ICT for Smart Societies @ Politecnico di Torino
 
 ---
 
-## 🔍 Visualizations
+## 🔍
 
 <p align="center">
   <a href="https://github.com/mahdirajaee">
