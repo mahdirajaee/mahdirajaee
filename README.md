@@ -1,144 +1,192 @@
-<!--
-  Place this at mahdirajaee/mahdirajaee/README.md
--->
+# 👋 Hello, I'm Mahdi Rajaee
 
-# 👋 Hi, I’m Mahdi Rajaee
+<div align="center">
 
-<a href="https://github.com/mahdirajaee">
-  <img align="right" width="180" src="https://github-readme-stats.vercel.app/api?username=mahdirajaee&show_icons=true&theme=radical" alt="Mahdi's GitHub Stats"/>
-</a>
+**🚀 Full-Stack Developer | 🤖 ML & IoT Enthusiast | 🎓 MSc ICT for Smart Societies**
 
-**Full-Stack Developer** | **IoT & ML Enthusiast**  
-MSc ICT for Smart Societies @ Politecnico di Torino  
+*Building intelligent systems that connect the digital and physical worlds*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahdi-rajaee-a815a086/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox)](https://your-portfolio.com)
 
-## 🌟 About Me
-- 🤝 Seeking collaborations in **Data Science**, **ML**, **IoT**, **Full-Stack Web**  
-- 💬 Always up for a chat about **Python**, **Kubernetes**, or **Coffee ☕**  
+</div>
 
 ---
 
-## 📜 Certifications & Key Skills
+## 🎯 Current Focus
 
-### DataCamp
-- ![DataCamp](https://img.shields.io/badge/DataCamp-0076BA?logo=datacamp&logoColor=white) **AI Fundamentals**  
-  Issued Aug 2024 · Credential ID **AIF0029600890368**  
-  _Skills:_ Model Training & Evaluation · Model Deployment · Model Monitoring · CI/CD · K-Fold Cross-Validation
+<table>
+<tr>
+<td width="50%">
 
-- ![DataCamp](https://img.shields.io/badge/DataCamp-0076BA?logo=datacamp&logoColor=white) **End-to-End Machine Learning**  
-  Issued Aug 2024  
-  _Skills:_ Model Training & Evaluation · Model Deployment · Model Monitoring · CI/CD · K-Fold Cross-Validation
+### 🔭 **What I'm Working On**
+- Developing IoT solutions for smart city applications
+- Exploring MLOps and production ML systems
 
-- ![DataCamp](https://img.shields.io/badge/DataCamp-0076BA?logo=datacamp&logoColor=white) **Unsupervised Learning in Python**  
-  Issued Aug 2024  
-  _Skills:_ Machine Learning · Dataset Exploration · t-SNE · PCA · NMF
+</td>
+<td width="50%">
 
-- ![DataCamp](https://img.shields.io/badge/DataCamp-0076BA?logo=datacamp&logoColor=white) **Supervised Learning with scikit-learn**  
-  Issued Jun 2024
+### 🤝 **Looking to Collaborate**
+- **Data Science & ML** projects
+- **IoT & Smart Systems** development
+- **Full-Stack Web Applications**
+- Open source contributions
 
-- ![DataCamp](https://img.shields.io/badge/DataCamp-0076BA?logo=datacamp&logoColor=white) **MLOps Concepts**  
-  Issued Aug 2024  
-  _Skills:_ Deploying ML into Production · Design & Development · Maintaining ML in Production
-
-### Coursera
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white) **IT Security: Defense against the digital dark arts**  
-  Issued Jun 2022 · Credential ID VJGVW22APHRW
-
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white) **Google IT Support Specialization**  
-  Issued Jun 2022 · Credential ID C776TDCFYADM
-
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white) **System Administration & IT Infrastructure Services**  
-  Issued Jun 2022 · Credential ID C9KNTKMYWS29
-
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white) **Technical Support Fundamentals**  
-  Issued Apr 2022 · Credential ID JZL63KXVLB4C
-
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white) **Google UX Design Specialization**  
-  Issued Mar 2022 · Credential ID YNFYGHLJSFZQ
-
-### Other Certifications
-- **Administering Microsoft SQL Server 2012/2014 Databases** (Kahkeshan Noor) — Issued Jul 2015  
-- **Designing Database Solutions for Microsoft SQL Server** (Kahkeshan Noor) — Issued Jul 2015  
-- **IELTS** (British Council) 
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Skills & Tech Stack
+## 🛠️ Tech Arsenal
 
-### 🐍 Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter)
+<div align="center">
 
-### 🌐 Web & IoT
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js)
-![IoT](https://img.shields.io/badge/IoT-26A65B)
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### ⚙️ Backend & DevOps
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?logo=express)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+### **Data Science & ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### **Backend & DevOps**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Key Achievements & Certifications
+
+<details>
+<summary><b>🎓 Click to view my certifications</b></summary>
+
+<br>
+
+### **🔬 Data Science & ML**
+- **AI Fundamentals** - DataCamp (Aug 2024)
+- **End-to-End Machine Learning** - DataCamp (Aug 2024)
+- **Unsupervised Learning in Python** - DataCamp (Aug 2024)
+- **Supervised Learning with scikit-learn** - DataCamp (Jun 2024)
+- **MLOps Concepts** - DataCamp (Aug 2024)
+
+### **🌐 Professional Development**
+- **Google IT Support Specialist** - Coursera (Jun 2022)
+- **Google UX Design Specialist** - Coursera (Mar 2022)
+- **IT Security: Defense against Digital Dark Arts** - Coursera (Jun 2022)
+
+### **💾 Database & Systems**
+- **Microsoft SQL Server Administration** (Jul 2015)
+- **Database Solutions Design** (Jul 2015)
+
+</details>
 
 ---
 
 ## 🚀 Featured Projects
 
-<details>
-  <summary>Click to expand</summary>
+<div align="center">
 
-- 🔧 **SmartBolt_IOT_Platform**  
-  Modular IoT system for real-time pipeline monitoring & control  
-  [GitHub](https://github.com/mahdirajaee/SmartBolt_IOT_Platform)
+<table>
+<tr>
+<td width="50%">
 
-- 📊 **Parkinson-Regression-Analysis**  
-  Predicting disease severity from voice features with linear regression  
-  [GitHub](https://github.com/mahdirajaee/Parkinson-Regression-Analysis)
+### 🔧 [SmartBolt IoT Platform](https://github.com/mahdirajaee/SmartBolt_IOT_Platform)
+**Real-time pipeline monitoring system**
+- Modular IoT architecture
+- Live data visualization
+- Industrial automation focus
 
-- 🔬 **Gaussian-Process-Regression**  
-  Uncertainty-aware modelling on clinical datasets  
-  [GitHub](https://github.com/mahdirajaee/Gaussian-Process-Regression)
+</td>
+<td width="50%">
 
-- 🌐 **Supply-Chain-Risk-Intelligence**  
-  Multimodal risk forecasts using satellite, social sentiment & economic data  
-  [GitHub](https://github.com/mahdirajaee/Multimodal-Supply-Chain-Risk-Intelligence)
-</details>
+### 🌐 [Supply Chain Risk Intelligence](https://github.com/mahdirajaee/Multimodal-Supply-Chain-Risk-Intelligence)
+**AI-powered risk forecasting**
+- Multimodal data analysis
+- Satellite & sentiment integration
+- Economic trend prediction
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 [Parkinson's Disease Analysis](https://github.com/mahdirajaee/Parkinson-Regression-Analysis)
+**ML for healthcare diagnostics**
+- Voice feature analysis
+- Regression modeling
+- Clinical data insights
+
+</td>
+<td width="50%">
+
+### 🔬 [Gaussian Process Regression](https://github.com/mahdirajaee/Gaussian-Process-Regression)
+**Uncertainty-aware modeling**
+- Bayesian machine learning
+- Clinical dataset analysis
+- Probabilistic predictions
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🔍
+## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/mahdirajaee">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdirajaee&layout=compact&theme=radical" alt="Top Languages"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mahdirajaee">
-    <img src="https://github-profile-trophy.vercel.app/?username=mahdirajaee&theme=onedark&no-frame=true&column=5" alt="Trophies"/>
-  </a>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdirajaee&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdirajaee&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahdirajaee&theme=radical)
+
+</div>
 
 ---
 
-## 🔗 Connect with Me
+## 💭 Fun Facts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-rajaee-a815a086/)  
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YOUR_USERID/)  
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@YOUR_HANDLE)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+- ☕ **Coffee Connoisseur**: Always brewing the perfect cup while coding
+- 🗣️ **Languages**: Fluent in Python, JavaScript, and human languages too!
+- 🌍 **Currently in**: Turin, Italy - exploring the intersection of technology and culture
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahdirajaee&color=blue" alt="Profile Views"/>
-</p>
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+**💬 I'm always excited to discuss:**
+- Machine Learning innovations
+- IoT system architectures  
+- Full-stack development challenges
+- Coffee brewing techniques ☕
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahdi-rajaee-a815a086/)
+[![Email](https://img.shields.io/badge/Email-Direct%20Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Community-FE7A16?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/YOUR_USERID/)
+
+<sub>⭐ **Star my repositories if they inspire your next project!** ⭐</sub>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahdirajaee&color=blueviolet&style=for-the-badge)
+
+</div>
