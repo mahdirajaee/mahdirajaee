@@ -157,9 +157,6 @@ I'm a passionate **Full-Stack Developer** specializing in **real-world applicati
 
   <br/>
 
-  <!-- Contribution graph -->
-  <img src="https://ghchart.rshah.org/mahdirajaee" alt="GitHub Contribution Graph" />
-
 </div>
 
 ---
