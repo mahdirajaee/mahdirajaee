@@ -2,13 +2,14 @@
 
 # 👋 Hello, I'm Mahdi Rajaee
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;ML+%26+IoT+Enthusiast;MSc+ICT+for+Smart+Societies;Building+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Real-World+Problem+Solver;MSc+ICT+for+Smart+Societies;Building+Production-Ready+Systems" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahdirajaee&color=00d4aa&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mahdirajaee?label=Followers&style=for-the-badge&color=00d4aa&labelColor=1a1b27" alt="GitHub Followers" />
 </p>
 
-**🌟 Connecting the Digital and Physical Worlds Through Intelligent Systems 🌟**
+**🚀 Developing Real-World Solutions That Make a Difference 🚀**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mahdi-rajaee-a815a086/" target="_blank">
@@ -17,40 +18,39 @@
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B6B" alt="Portfolio" />
+  <a href="https://github.com/mahdirajaee" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
 </div>
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-## 🎯 **Current Focus**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
+
+## 🎯 **What I Do**
 
 <table align="center">
 <tr>
 <td width="50%" align="center">
 
-### 🔭 **What I'm Building**
+### 🔧 **Current Projects**
 ```yaml
-Current Projects:
+Focus Areas:
   - IoT solutions for smart cities
-  - MLOps & production ML systems
   - Full-stack web applications
+  - Industrial automation systems
+  - Real-time data processing
 ```
 
 </td>
 <td width="50%" align="center">
 
-### 🤝 **Open to Collaborate**
+### 🤝 **Collaboration Interests**
 ```yaml
-Interests:
-  - Data Science & ML projects
+Looking for:
+  - Production-ready applications
   - IoT & Smart Systems
   - Full-Stack Development
   - Open Source contributions
@@ -62,81 +62,58 @@ Interests:
 
 <div align="center">
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ **Tech Arsenal**
-
-### **Programming Languages**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
+## 🛠️ **Technology Stack**
 
 ### **Frontend Development**
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,typescript,javascript,html,css,tailwind,bootstrap" alt="Frontend Skills" />
 </p>
 
-### **Backend & API Development**
+### **Backend Development**
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,fastapi,express,php,java,spring" alt="Backend Skills" />
 </p>
 
-### **Data Science & Machine Learning**
+### **Database & Storage**
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,sqlite,firebase" alt="Database Skills" />
 </p>
 
-### **Cloud & DevOps**
+### **DevOps & Cloud**
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,jenkins,github" alt="DevOps Skills" />
 </p>
 
-### **Databases**
+### **Data Science & Analytics**
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,jupyter,sklearn,pandas,numpy" alt="Data Science Skills" />
 </p>
+
+### **Tools & IDEs**
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,linux,windows,mac" alt="Tools Skills" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
----
-
-<div align="center">
-
-## 🏆 **Achievements & Certifications**
-
-</div>
+## 🏆 **Professional Certifications**
 
 <details>
-<summary><b>🎓 Click to explore my professional certifications</b></summary>
+<summary><b>📚 Click to explore my professional development journey</b></summary>
 
 <br>
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 <td width="50%">
 
-### **🔬 Data Science & ML**
+### **🔬 Data Science & Analytics**
 - 🎯 **AI Fundamentals** - DataCamp (Aug 2024)
 - 🤖 **End-to-End Machine Learning** - DataCamp (Aug 2024)
 - 📊 **Unsupervised Learning in Python** - DataCamp (Aug 2024)
@@ -146,7 +123,7 @@ Interests:
 </td>
 <td width="50%">
 
-### **🌐 Professional Development**
+### **🌐 Technology & Systems**
 - 💻 **Google IT Support Specialist** - Coursera (Jun 2022)
 - 🎨 **Google UX Design Specialist** - Coursera (Mar 2022)
 - 🔒 **IT Security: Defense against Digital Dark Arts** - Coursera (Jun 2022)
@@ -157,81 +134,82 @@ Interests:
 </tr>
 </table>
 
+</div>
+
 </details>
 
----
-
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 **Featured Projects**
 
 </div>
 
 <div align="center">
-<br>
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-<h3>🔧 <a href="https://github.com/mahdirajaee/SmartBolt_IOT_Platform">SmartBolt IoT Platform</a></h3>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdirajaee&repo=SmartBolt_IOT_Platform&theme=tokyonight&border_color=00d4aa&title_color=00d4aa&icon_color=00d4aa" alt="SmartBolt IoT Platform" />
 
-**Real-time pipeline monitoring system**
+**🔧 Real-time Pipeline Monitoring**
 
 ![IoT](https://img.shields.io/badge/IoT-00D4AA?style=flat-square&logo=internet-of-things&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-✨ Modular IoT architecture<br>
-📊 Live data visualization<br>
-🏭 Industrial automation focus
+✨ Modular IoT architecture for industrial monitoring<br>
+📊 Real-time data visualization dashboard<br>
+🏭 Production-ready automation systems
 
 </td>
 <td width="50%" align="center">
 
-<h3>🌐 <a href="https://github.com/mahdirajaee/Multimodal-Supply-Chain-Risk-Intelligence">Supply Chain Risk Intelligence</a></h3>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdirajaee&repo=Multimodal-Supply-Chain-Risk-Intelligence&theme=tokyonight&border_color=00d4aa&title_color=00d4aa&icon_color=00d4aa" alt="Supply Chain Risk Intelligence" />
 
-**AI-powered risk forecasting**
+**🌐 Supply Chain Risk Intelligence**
 
-![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=artificial-intelligence&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics-FF6B6B?style=flat-square&logo=chart-dot-js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-🛰️ Satellite & sentiment integration<br>
-📈 Economic trend prediction<br>
-🧠 Multimodal data analysis
+🛰️ Multi-source data integration and analysis<br>
+📈 Real-time risk assessment algorithms<br>
+🧠 Predictive analytics for supply chains
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-<h3>📊 <a href="https://github.com/mahdirajaee/Parkinson-Regression-Analysis">Parkinson's Disease Analysis</a></h3>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdirajaee&repo=Parkinson-Regression-Analysis&theme=tokyonight&border_color=00d4aa&title_color=00d4aa&icon_color=00d4aa" alt="Parkinson's Analysis" />
 
-**ML for healthcare diagnostics**
+**📊 Healthcare Data Analysis**
 
 ![Healthcare](https://img.shields.io/badge/Healthcare-4CAF50?style=flat-square&logo=health&logoColor=white)
-![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-🎤 Voice feature analysis<br>
-📊 Regression modeling<br>
-🏥 Clinical data insights
+🎤 Voice pattern analysis for diagnostics<br>
+📊 Statistical modeling and regression<br>
+🏥 Clinical data processing pipelines
 
 </td>
 <td width="50%" align="center">
 
-<h3>🔬 <a href="https://github.com/mahdirajaee/Gaussian-Process-Regression">Gaussian Process Regression</a></h3>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdirajaee&repo=Gaussian-Process-Regression&theme=tokyonight&border_color=00d4aa&title_color=00d4aa&icon_color=00d4aa" alt="Gaussian Process" />
 
-**Uncertainty-aware modeling**
+**🔬 Advanced Statistical Modeling**
 
-![Bayesian](https://img.shields.io/badge/Bayesian-9C27B0?style=flat-square&logo=statistics&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-9C27B0?style=flat-square&logo=statistics&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-🎯 Bayesian machine learning<br>
-📈 Probabilistic predictions<br>
-🔬 Clinical dataset analysis
+🎯 Probabilistic machine learning models<br>
+📈 Uncertainty quantification methods<br>
+🔬 Robust statistical inference
 
 </td>
 </tr>
@@ -239,61 +217,129 @@ Interests:
 
 </div>
 
----
-
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdirajaee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d4aa&title_color=00d4aa&icon_color=00d4aa"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdirajaee&layout=compact&langs_count=8&theme=tokyonight&border_color=00d4aa&title_color=00d4aa"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdirajaee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d4aa&title_color=00d4aa&icon_color=00d4aa&bg_color=1a1b27"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdirajaee&layout=compact&langs_count=10&theme=tokyonight&border_color=00d4aa&title_color=00d4aa&bg_color=1a1b27"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdirajaee&theme=tokyonight&border=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdirajaee&theme=tokyonight&border=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&background=1a1b27" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdirajaee&theme=tokyo-night&bg_color=1a1b27&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdirajaee&theme=tokyo-night&bg_color=1a1b27&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=false&border_color=00d4aa" alt="Contribution Graph" />
 </div>
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+## 🎨 **Skills Visualization**
 
 <div align="center">
 
-## 💭 **About Me**
+<table>
+<tr>
+<td width="50%">
+
+**Programming Languages**
+```text
+Python       ████████████████████ 90%
+JavaScript   ██████████████████   85%
+TypeScript   ████████████████     80%
+Java         ███████████████      75%
+C++          ██████████████       70%
+```
+
+</td>
+<td width="50%">
+
+**Frameworks & Tools**
+```text
+React/Vue    ████████████████████ 90%
+Node.js      ██████████████████   85%
+Django       ████████████████     80%
+Docker       ███████████████      75%
+Kubernetes   █████████████        65%
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💼 **Professional Highlights**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/code.png" alt="Code"/>
+<br><strong>Full-Stack Development</strong>
+<br><em>End-to-end application development</em>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/internet-of-things.png" alt="IoT"/>
+<br><strong>IoT Solutions</strong>
+<br><em>Smart systems & automation</em>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/database.png" alt="Data"/>
+<br><strong>Data Processing</strong>
+<br><em>Real-time analytics & insights</em>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/cloud.png" alt="Cloud"/>
+<br><strong>Cloud Architecture</strong>
+<br><em>Scalable system design</em>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌍 **About Me**
+
+<div align="center">
 
 <table align="center">
 <tr>
 <td align="center">
 
-☕ **Coffee Connoisseur**<br>
-*Perfect brew = Perfect code*
+☕ **Coffee Enthusiast**<br>
+*Fueling innovation one cup at a time*
 
 </td>
 <td align="center">
 
-🗣️ **Polyglot**<br>
-*Python, JavaScript & Human Languages*
+🗣️ **Multilingual**<br>
+*Code in Python, JavaScript & Human Languages*
 
 </td>
 <td align="center">
 
 🌍 **Location**<br>
-*Turin, Italy*
+*Turin, Italy 🇮🇹*
 
 </td>
 <td align="center">
 
-🎯 **Focus**<br>
-*Tech meets Culture*
+🎯 **Mission**<br>
+*Building tomorrow's solutions today*
 
 </td>
 </tr>
@@ -301,15 +347,15 @@ Interests:
 
 </div>
 
----
-
 <div align="center">
 
-## 🤝 **Let's Connect & Collaborate!**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 **Let's Connect & Build Something Amazing!**
 
 <p align="center">
-<strong>💬 Always excited to discuss:</strong><br>
-🤖 Machine Learning Innovations • 🏠 IoT System Architectures • 🌐 Full-Stack Challenges • ☕ Coffee Brewing Techniques
+<strong>💬 I'm passionate about discussing:</strong><br>
+🚀 Scalable System Architecture • 🌐 Full-Stack Innovation • 🏭 Industrial IoT Solutions • ⚡ Real-time Data Processing
 </p>
 
 <div align="center">
@@ -319,15 +365,23 @@ Interests:
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Direct%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://stackoverflow.com/users/YOUR_USERID/" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-Community-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  <a href="https://github.com/mahdirajaee" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 <br>
 
+### 🎯 **Open to Opportunities**
+- Full-time positions in **Full-Stack Development**
+- **IoT & Smart Systems** consulting projects  
+- **Open Source** collaborations
+- **Technical mentoring** and knowledge sharing
+
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Star%20⭐%20my%20repositories%20if%20they%20inspire%20your%20next%20project!&descAlignY=85&descAlign=50" alt="Footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,30,64&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontAlignY=65&desc=⭐%20Star%20my%20repositories%20if%20they%20help%20with%20your%20projects!&descAlignY=85&descAlign=50&fontColor=ffffff" alt="Footer" width="100%"/>
 </div>
 
 </div>
