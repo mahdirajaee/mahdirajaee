@@ -1,3 +1,7 @@
+<!--
+  Place this at mahdirajaee/mahdirajaee/README.md
+-->
+
 # 👋 Hello, I'm Mahdi AKA Matt
 
 <div align="center">
@@ -37,106 +41,131 @@ I'm a passionate **Full-Stack Developer** specializing in **real-world applicati
 ## 🛠️ Technology Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B" />
+</p>
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+</p>
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
+</p>
 
 ### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase" />
+</p>
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform" />
+</p>
 
 ### Data Science & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter" />
+  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn" />
+</p>
 
 ---
 
 ## 🏆 Professional Certifications
 
 <details>
-<summary><b>📚 Click to view my certifications (11 completed!)</b></summary>
+  <summary><b>📚 Click to view my certifications (11 completed!)</b></summary>
 
-### Data Science & Machine Learning
-- 🎯 **AI Fundamentals** - DataCamp (August 2024)
-- 🤖 **End-to-End Machine Learning** - DataCamp (August 2024)
-- 📊 **Unsupervised Learning in Python** - DataCamp (August 2024)
-- 🎯 **Supervised Learning with scikit-learn** - DataCamp (June 2024)
-- ⚙️ **MLOps Concepts** - DataCamp (August 2024)
+  **Data Science & Machine Learning**
+  - 🎯 AI Fundamentals — DataCamp (Aug 2024)
+  - 🤖 End-to-End Machine Learning — DataCamp (Aug 2024)
+  - 📊 Unsupervised Learning in Python — DataCamp (Aug 2024)
+  - 🎯 Supervised Learning with scikit-learn — DataCamp (Jun 2024)
+  - ⚙️ MLOps Concepts — DataCamp (Aug 2024)
 
-### Technology & Systems
-- 💻 **Google IT Support Specialist** - Coursera (June 2022)
-- 🎨 **Google UX Design Specialist** - Coursera (March 2022)
-- 🔒 **IT Security: Defense against Digital Dark Arts** - Coursera (June 2022)
+  **Technology & Systems**
+  - 💻 Google IT Support Specialist — Coursera (Jun 2022)
+  - 🎨 Google UX Design Specialist — Coursera (Mar 2022)
+  - 🔒 IT Security: Defense against Digital Dark Arts — Coursera (Jun 2022)
 
-### Database & Administration
-- 💾 **Microsoft SQL Server Administration** (July 2015)
-- 🏗️ **Database Solutions Design** (July 2015)
+  **Database & Administration**
+  - 💾 Microsoft SQL Server Administration — Kahkeshan Noor (Jul 2015)
+  - 🏗️ Database Solutions Design — Kahkeshan Noor (Jul 2015)
 
+  **Language Proficiency**
+  - 🇬🇧 IELTS (British Council) (Jul 2021 — Expired Jul 2023)
 </details>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔧 [SmartBolt IoT Platform](https://github.com/mahdirajaee/SmartBolt_IOT_Platform)
-**Real-time Pipeline Monitoring System**
-- ✨ **Modular IoT architecture** for industrial monitoring
-- 📊 **Real-time data visualization** dashboard
-- 🏭 **Production-ready automation** systems
-- **Tech Stack:** Python, React, IoT, Real-time Processing
-
-### 🌐 [Supply Chain Risk Intelligence](https://github.com/mahdirajaee/Multimodal-Supply-Chain-Risk-Intelligence)
-**AI-powered Risk Forecasting Platform**
-- 🛰️ **Multi-source data integration** and analysis
-- 📈 **Real-time risk assessment** algorithms
-- 🧠 **Predictive analytics** for supply chain management
-- **Tech Stack:** Python, FastAPI, Machine Learning, Analytics
-
-### 📊 [Parkinson's Disease Analysis](https://github.com/mahdirajaee/Parkinson-Regression-Analysis)
-**Healthcare Data Analysis System**
-- 🎤 **Voice pattern analysis** for medical diagnostics
-- 📊 **Statistical modeling** and regression analysis
-- 🏥 **Clinical data processing** pipelines
-- **Tech Stack:** Python, Jupyter, Statistical Analysis, Healthcare
-
-### 🔬 [Gaussian Process Regression](https://github.com/mahdirajaee/Gaussian-Process-Regression)
-**Advanced Statistical Modeling Framework**
-- 🎯 **Probabilistic machine learning** models
-- 📈 **Uncertainty quantification** methods
-- 🔬 **Robust statistical inference** algorithms
-- **Tech Stack:** Python, scikit-learn, Statistical Modeling
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        🔧 <b><a href="https://github.com/mahdirajaee/SmartBolt_IOT_Platform">SmartBolt IoT Platform</a></b><br/>
+        <i>Real-time Pipeline Monitoring System</i><br/>
+        <img src="https://img.shields.io/badge/IoT-00D4AA?style=for-the-badge" alt="IoT" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge" alt="React" /><br/>
+        Modular IoT architecture · Real-time visualization · Production automation
+      </td>
+      <td align="center">
+        🌐 <b><a href="https://github.com/mahdirajaee/Multimodal-Supply-Chain-Risk-Intelligence">Supply Chain Risk Intelligence</a></b><br/>
+        <i>AI-powered Risk Forecasting Platform</i><br/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/ML-FF6B6B?style=for-the-badge" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/Analytics-FF6B6B?style=for-the-badge" alt="Analytics" /><br/>
+        Multi-source integration · Real-time risk · Predictive insights
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        📊 <b><a href="https://github.com/mahdirajaee/Parkinson-Regression-Analysis">Parkinson's Disease Analysis</a></b><br/>
+        <i>Healthcare Data Analysis System</i><br/>
+        <img src="https://img.shields.io/badge/Health-4CAF50?style=for-the-badge" alt="Healthcare" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" alt="Pandas" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge" alt="Jupyter" /><br/>
+        Voice pattern analysis · Statistical modeling · Clinical pipelines
+      </td>
+      <td align="center">
+        🔬 <b><a href="https://github.com/mahdirajaee/Gaussian-Process-Regression">Gaussian Process Regression</a></b><br/>
+        <i>Advanced Statistical Modeling Framework</i><br/>
+        <img src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge" alt="scikit-learn" />
+        <img src="https://img.shields.io/badge/Stats-9C27B0?style=for-the-badge" alt="Statistics" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python" /><br/>
+        Probabilistic ML · Uncertainty quantification · Robust inference
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -156,85 +185,5 @@ I'm a passionate **Full-Stack Developer** specializing in **real-world applicati
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=mahdirajaee&theme=radical&no-frame=true&column=7" alt="Trophies"/>
 
   <br/>
-
-</div>
-
----
-
-## 💼 Professional Expertise
-
-### 🌐 Full-Stack Development
-End-to-end application development with modern frameworks and best practices.
-
-### 🔗 IoT & Smart Systems  
-Industrial automation solutions with real-time monitoring and control systems.
-
-### 📊 Data Processing & Analytics
-Building scalable data pipelines and analytics platforms for business insights.
-
-### ☁️ Cloud Architecture
-Designing and implementing scalable cloud-native applications and infrastructure.
-
----
-
-## 🎨 Skills Overview
-
-**Programming Languages**
-```
-Python           ██████████████████████ 90%
-JavaScript       ████████████████████   85%
-TypeScript       ██████████████████     80%
-Java             ███████████████        75%
-C++              ██████████████         70%
-```
-
-**Frameworks & Tools**
-```
-React/Vue        ██████████████████████ 90%
-Node.js          ████████████████████   85%
-Django/FastAPI   ██████████████████     80%
-Docker           ███████████████        75%
-Cloud Platforms  ██████████████         70%
-```
-
----
-
-## 🌍 About Me
-
-- ☕ **Coffee Enthusiast** - Fueling innovation one espresso at a time
-- 🗣️ **Multilingual** - Fluent in Python, JavaScript, English, and Italian  
-- 🌍 **Location** - Turin, Italy 🇮🇹
-- 🎓 **Education** - MSc ICT for Smart Societies, Polytechnic University of Turin
-- 🎯 **Mission** - Building practical solutions that solve real-world problems
-
----
-
-## 🤝 Let's Connect!
-
-I'm always excited to discuss:
-- 🚀 **Scalable System Architecture**
-- 🌐 **Full-Stack Development**
-- 🏭 **Industrial IoT Solutions** 
-- ⚡ **Real-time Data Processing**
-- ☕ **Coffee brewing techniques!**
-
-### 🎯 Open to Opportunities
-
-| 💼 Full-time Positions | 🔧 Consulting Projects | 🌟 Open Source | 👨‍🏫 Mentoring |
-|:--:|:--:|:--:|:--:|
-| Full-Stack Development | IoT & Smart Systems | Collaboration | Knowledge Sharing |
-| Production Applications | Industrial Automation | Community Projects | Technical Guidance |
-
----
-
-<div align="center">
-
-**⭐ If my repositories help with your projects, please consider starring them! ⭐**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-rajaee-a815a086/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahdirajaee)
-
-**Thanks for visiting! Let's build something amazing together! 🚀**
 
 </div>
