@@ -40,7 +40,6 @@ I'm a passionate **Full-Stack Developer** specializing in **real-world applicati
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Frontend
@@ -58,11 +57,14 @@ I'm a passionate **Full-Stack Developer** specializing in **real-world applicati
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Database
+### 🗄️ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
+
+
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -142,10 +144,22 @@ I'm a passionate **Full-Stack Developer** specializing in **real-world applicati
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdirajaee&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdirajaee&layout=compact&langs_count=7&theme=radical"/>
+  <!-- Overall GitHub stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdirajaee&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+  <!-- Top languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdirajaee&layout=compact&langs_count=7&theme=radical" alt="Top Languages"/>
+
+  <br/>
+
+  <!-- GitHub trophies -->
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=mahdirajaee&theme=radical&no-frame=true&column=7" alt="Trophies"/>
+
+  <!-- Streak stats -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=mahdirajaee&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
+
 
 ---
 
