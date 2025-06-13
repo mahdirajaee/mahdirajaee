@@ -155,11 +155,12 @@ I'm a passionate **Full-Stack Developer** specializing in **real-world applicati
   <!-- GitHub trophies -->
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=mahdirajaee&theme=radical&no-frame=true&column=7" alt="Trophies"/>
 
-  <!-- Streak stats -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=mahdirajaee&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <br/>
+
+  <!-- Contribution graph -->
+  <img src="https://ghchart.rshah.org/mahdirajaee" alt="GitHub Contribution Graph" />
 
 </div>
-
 
 ---
 
