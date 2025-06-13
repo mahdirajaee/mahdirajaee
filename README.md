@@ -1,5 +1,3 @@
-this is good, add some visuals but keep the structure 
-
 # 👋 Hello, I'm Mahdi AKA Matt
 
 <div align="center">
