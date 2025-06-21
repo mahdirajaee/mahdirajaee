@@ -202,7 +202,7 @@ Cloud Platforms  ██████████████         70%
 ## 🌍 About Me
 
 - ☕ **Coffee Enthusiast** - Fueling innovation one espresso at a time
-- 🗣️ **Multilingual** - Fluent in Python, JavaScript, English, and Italian  
+- 🗣️ **Multilingual** - Fluent English 
 - 🌍 **Location** - Turin, Italy 🇮🇹
 - 🎓 **Education** - MSc ICT for Smart Societies, Polytechnic University of Turin
 - 🎯 **Mission** - Building practical solutions that solve real-world problems
