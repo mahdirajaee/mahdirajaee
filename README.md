@@ -2,9 +2,9 @@
 
 <div align="center">
 
-**🚀 Full-Stack Developer @ Bando Easy
+**Full-Stack Developer @ Bando Easy**
 
-Real-World Problem Solver | MSc ICT for Smart Societies**
+Real-World Problem Solver | MSc ICT for Smart Societies
 
 *Building Production-Ready Systems That Make a Difference*
 
