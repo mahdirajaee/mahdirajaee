@@ -59,7 +59,7 @@ I'm a passionate **Full-Stack Developer** specializing in **real-world applicati
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-###  Database
+### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -109,7 +109,7 @@ I'm a passionate **Full-Stack Developer** specializing in **real-world applicati
 
 ##  Featured Projects
 
-### 🔧 [SmartBolt IoT Platform](https://github.com/mahdirajaee/SmartBolt_IOT_Platform)
+###  [SmartBolt IoT Platform](https://github.com/mahdirajaee/SmartBolt_IOT_Platform)
 **Real-time Pipeline Monitoring System**
 -  **Modular IoT architecture** for industrial monitoring
 -  **Real-time data visualization** dashboard
@@ -130,7 +130,7 @@ I'm a passionate **Full-Stack Developer** specializing in **real-world applicati
 -  **Clinical data processing** pipelines
 - **Tech Stack:** Python, Jupyter, Statistical Analysis, Healthcare
 
-### 🔬 [Gaussian Process Regression](https://github.com/mahdirajaee/Gaussian-Process-Regression)
+###  [Gaussian Process Regression](https://github.com/mahdirajaee/Gaussian-Process-Regression)
 **Advanced Statistical Modeling Framework**
 -  **Probabilistic machine learning** models
 -  **Uncertainty quantification** methods
