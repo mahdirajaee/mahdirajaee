@@ -202,7 +202,7 @@ Cloud Platforms  ██████████████         70%
 
 -  **Coffee Enthusiast** - Fueling innovation one espresso at a time
 -  **Multilingual** - Fluent English 
--  **Location** - Turin, Italy 🇮🇹
+-  **Location** - Turin, Italy 
 -  **Education** - MSc ICT for Smart Societies, Polytechnic University of Turin
 -  **Mission** - Building practical solutions that solve real-world problems
 
@@ -228,12 +228,12 @@ I'm always excited to discuss:
 
 <div align="center">
 
-** If my repositories help with your projects, please consider starring them! ⭐**
+** If my repositories help with your projects, please consider starring them! **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-rajaee-a815a086/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahdirajaee)
 
-**Thanks for visiting! Let's build something amazing together! 🚀**
+**Thanks for visiting! Let's build something amazing together! **
 
 </div>
