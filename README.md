@@ -1,178 +1,179 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header"/>
+
 <div align="center">
 
-<!-- Animated Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Mahdi+AKA+Matt+%F0%9F%91%8B;Full-Stack+Developer+%40+Bando+Easy;MSc+ICT+for+Smart+Societies;Building+Production-Ready+Systems" alt="Typing SVG" />
-</a>
+# Mahdi Rajaee
 
-<br/>
+**CTO & Full-Stack Engineer | IoT Engineer | Machine Learning Practitioner**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-rajaee-a815a086/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdi.rajaee@studenti.polito.it)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahdirajaee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahdi-rajaee-a815a086/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:mahdi.rajaee@studenti.polito.it)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/mahdirajaee)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahdirajaee&color=blueviolet&style=for-the-badge)
+*Building scalable, production-ready systems that solve real-world problems*
 
 </div>
 
 ---
 
-<!-- GitHub Stats Row -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdirajaee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdirajaee&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdirajaee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
+## About
 
-<br/>
+**CTO & Full-Stack Engineer** at **Bando Easy**, leading technical strategy and building production-grade web applications. Currently pursuing **MSc in ICT for Smart Societies** at Polytechnic University of Turin, Italy.
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdirajaee&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-</div>
+I specialize in designing and implementing end-to-end solutions—from real-time data processing pipelines to user-facing applications—with a focus on scalability, maintainability, and performance.
+
+**Core Competencies:**
+- Full-Stack Web Development (React, Next.js, Node.js, Django)
+- Industrial IoT & Smart City Solutions
+- Machine Learning Model Development & Deployment
+- System Architecture & API Design
 
 ---
 
-## About Me
+## Technical Skills
 
-I'm a **Full-Stack Developer** at **Bando Easy**, specializing in **production-ready systems** and **real-world applications**. Currently pursuing my **MSc in ICT for Smart Societies** at Polytechnic University of Turin.
+<table>
+<tr>
+<td valign="top" width="33%">
 
-- Building **IoT Solutions** for smart cities and industrial automation
-- Developing **Full-Stack Web Applications** with modern technologies
-- Creating **Real-time Data Processing** systems
-- Open to collaborating on **Production Applications** and **Open Source** projects
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Location:** Turin, Italy | **Mission:** Building practical solutions that solve real-world problems
+</td>
+<td valign="top" width="33%">
 
----
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## Tech Stack
+</td>
+<td valign="top" width="33%">
 
-<div align="center">
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-**Languages**
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
-![Languages](https://skillicons.dev/icons?i=python,js,ts,cpp,java&theme=dark)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Frontend**
+</td>
+<td valign="top" width="33%">
 
-![Frontend](https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind&theme=dark)
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Backend**
+</td>
+<td valign="top" width="33%">
 
-![Backend](https://skillicons.dev/icons?i=nodejs,django,fastapi,express,flask&theme=dark)
+### ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Database & Cloud**
-
-![Database](https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase,docker,kubernetes&theme=dark)
-
-**Data Science & ML**
-
-![ML](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-
-</div>
-
----
-
-## Snake Eating My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdirajaee/mahdirajaee/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahdirajaee/mahdirajaee/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/mahdirajaee/mahdirajaee/output/github-snake.svg" />
-  </picture>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## Featured Projects
 
-<div align="center">
-  <a href="https://github.com/mahdirajaee/SmartBolt_IOT_Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdirajaee&repo=SmartBolt_IOT_Platform&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/mahdirajaee/Multimodal-Supply-Chain-Risk-Intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdirajaee&repo=Multimodal-Supply-Chain-Risk-Intelligence&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+<table>
+<tr>
+<td width="50%">
 
-<div align="center">
-  <a href="https://github.com/mahdirajaee/Parkinson-Regression-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdirajaee&repo=Parkinson-Regression-Analysis&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/mahdirajaee/Gaussian-Process-Regression">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdirajaee&repo=Gaussian-Process-Regression&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+### [SmartBolt IoT Platform](https://github.com/mahdirajaee/SmartBolt_IOT_Platform)
+End-to-end IoT platform for industrial monitoring with real-time data processing, MQTT integration, and predictive analytics dashboard.
 
----
+`Python` `MQTT` `React` `PostgreSQL` `Docker`
 
-## Professional Certifications
+</td>
+<td width="50%">
 
-<details>
-<summary><b>Click to view my certifications (10 completed!)</b></summary>
+### [Supply Chain Risk Intelligence](https://github.com/mahdirajaee/Multimodal-Supply-Chain-Risk-Intelligence)
+Multimodal ML system for supply chain risk assessment using NLP and time-series analysis to predict disruptions.
 
-### Data Science & Machine Learning
-- **AI Fundamentals** - DataCamp (August 2024)
-- **End-to-End Machine Learning** - DataCamp (August 2024)
-- **Unsupervised Learning in Python** - DataCamp (August 2024)
-- **Supervised Learning with scikit-learn** - DataCamp (June 2024)
-- **MLOps Concepts** - DataCamp (August 2024)
+`Python` `TensorFlow` `NLP` `Time-Series`
 
-### Technology & Systems
-- **Google IT Support Specialist** - Coursera (June 2022)
-- **Google UX Design Specialist** - Coursera (March 2022)
-- **IT Security: Defense against Digital Dark Arts** - Coursera (June 2022)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### Database & Administration
-- **Microsoft SQL Server Administration** (July 2015)
-- **Database Solutions Design** (July 2015)
+### [Parkinson's Disease Analysis](https://github.com/mahdirajaee/Parkinson-Regression-Analysis)
+Regression analysis for Parkinson's disease progression prediction using clinical biomarkers and ensemble methods.
 
-</details>
+`Python` `scikit-learn` `Pandas` `Statistical Analysis`
+
+</td>
+<td width="50%">
+
+### [Gaussian Process Regression](https://github.com/mahdirajaee/Gaussian-Process-Regression)
+Implementation of GP regression models for uncertainty quantification in predictive modeling applications.
+
+`Python` `NumPy` `Matplotlib` `Bayesian ML`
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahdirajaee&theme=tokyonight&no-frame=true&column=7" alt="Trophies"/>
-</div>
+## Certifications
+
+| Domain | Certification | Issuer |
+|--------|--------------|--------|
+| Machine Learning | AI Fundamentals, End-to-End ML, Supervised & Unsupervised Learning | DataCamp |
+| MLOps | MLOps Concepts | DataCamp |
+| IT & Security | Google IT Support Specialist, IT Security | Google/Coursera |
+| Design | Google UX Design Specialist | Google/Coursera |
+| Database | SQL Server Administration, Database Design | Microsoft |
 
 ---
 
-<!-- Random Dev Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
+## Current Focus
+
+- 🔧 **Building:** SaaS platform with Next.js 16, Supabase, and Stripe integration
+- 📚 **Learning:** Advanced system design patterns and cloud architecture
+- 🤝 **Open to:** Full-time roles, consulting projects, and open-source collaboration
 
 ---
 
-## Let's Connect!
+## Let's Connect
 
-I'm always excited to discuss **Scalable System Architecture**, **Full-Stack Development**, **Industrial IoT Solutions**, **Real-time Data Processing**, and **Coffee brewing techniques!**
-
-<div align="center">
-
-### Open to Opportunities
-
-**Full-time Positions** | **Consulting Projects** | **Open Source Collaboration** | **Mentoring**
-
-</div>
-
----
+I'm always interested in discussing technology, architecture decisions, and new opportunities.
 
 <div align="center">
 
-**If my repositories help with your projects, please consider starring them!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-rajaee-a815a086/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdi.rajaee@studenti.polito.it)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahdirajaee)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-rajaee-a815a086/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdi.rajaee@studenti.polito.it)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahdirajaee)
-
-**Thanks for visiting! Let's build something amazing together!**
+**📍 Turin, Italy**
 
 </div>
+
+<div align="center">
+<sub>If you find my work helpful, consider giving it a ⭐</sub>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
