@@ -95,46 +95,40 @@ I specialize in designing and implementing end-to-end solutions—from real-time
 
 ---
 
-## Featured Projects
+## Experience
 
-<table>
-<tr>
-<td width="50%">
+### CTO & Full-Stack Engineer
+**Bando Easy** · Turin, Italy · *2025 - Present*
 
-### [SmartBolt IoT Platform](https://github.com/mahdirajaee/SmartBolt_IOT_Platform)
-End-to-end IoT platform for industrial monitoring with real-time data processing, MQTT integration, and predictive analytics dashboard.
+Leading technical strategy and hands-on development of a SaaS platform for grant management and funding opportunities.
 
-`Python` `MQTT` `React` `PostgreSQL` `Docker`
+| Area | Responsibilities |
+|------|-----------------|
+| **Full-Stack Development** | Architected and built production applications using Next.js 16, React 19, TypeScript, and Tailwind CSS. Implemented server-side rendering, API routes, and real-time features. |
+| **Database & Backend** | Designed and optimized PostgreSQL schemas with Supabase. Built RESTful APIs, implemented authentication flows, and managed data migrations. |
+| **DevOps & Infrastructure** | Set up CI/CD pipelines, Docker containerization, and deployment workflows. Integrated Stripe for subscription management. |
 
-</td>
-<td width="50%">
+---
 
-### [Supply Chain Risk Intelligence](https://github.com/mahdirajaee/Multimodal-Supply-Chain-Risk-Intelligence)
-Multimodal ML system for supply chain risk assessment using NLP and time-series analysis to predict disruptions.
+### Machine Learning Engineer
+**Research & Academic Projects** · Polytechnic University of Turin · *2022 - Present*
 
-`Python` `TensorFlow` `NLP` `Time-Series`
+| Project | Description |
+|---------|-------------|
+| **Supply Chain Risk Intelligence** | Built multimodal ML system using NLP and time-series analysis for disruption prediction |
+| **Parkinson's Disease Analysis** | Developed regression models for disease progression using clinical biomarkers |
+| **Gaussian Process Regression** | Implemented Bayesian ML models for uncertainty quantification |
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Tools:** TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Jupyter
 
-### [Parkinson's Disease Analysis](https://github.com/mahdirajaee/Parkinson-Regression-Analysis)
-Regression analysis for Parkinson's disease progression prediction using clinical biomarkers and ensemble methods.
+---
 
-`Python` `scikit-learn` `Pandas` `Statistical Analysis`
+### Database Administrator
+**Enterprise Systems** · *2015 - 2020*
 
-</td>
-<td width="50%">
-
-### [Gaussian Process Regression](https://github.com/mahdirajaee/Gaussian-Process-Regression)
-Implementation of GP regression models for uncertainty quantification in predictive modeling applications.
-
-`Python` `NumPy` `Matplotlib` `Bayesian ML`
-
-</td>
-</tr>
-</table>
+- Administered Microsoft SQL Server environments for enterprise applications
+- Designed database solutions, optimized queries, and managed backup/recovery procedures
+- Implemented data integrity constraints and performance tuning strategies
 
 ---
 
