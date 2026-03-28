@@ -1,16 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header"/>
-
 <div align="center">
 
 # Mahdi Rajaee
 
 **CTO & Full-Stack Engineer | IoT Engineer | Machine Learning Practitioner**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahdi-rajaee-a815a086/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:mahdi.rajaee@studenti.polito.it)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/mahdirajaee)
-
-*Building scalable, production-ready systems that solve real-world problems*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-rajaee-a815a086/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mahdi.rajaee@studenti.polito.it)
 
 </div>
 
@@ -18,15 +13,9 @@
 
 ## About
 
-**CTO & Full-Stack Engineer** at **Bando Easy**, leading technical strategy and building production-grade web applications. Currently pursuing **MSc in ICT for Smart Societies** at Polytechnic University of Turin, Italy.
+CTO & Full-Stack Engineer at **Bando Easy**, leading technical strategy and building production-grade web applications. Currently pursuing **MSc in ICT for Smart Societies** at Polytechnic University of Turin, Italy.
 
-I specialize in designing and implementing end-to-end solutions—from real-time data processing pipelines to user-facing applications—with a focus on scalability, maintainability, and performance.
-
-**Core Competencies:**
-- Full-Stack Web Development (React, Next.js, Node.js, Django)
-- Industrial IoT & Smart City Solutions
-- Machine Learning Model Development & Deployment
-- System Architecture & API Design
+Designing and implementing end-to-end solutions — from real-time data processing pipelines to user-facing applications — with a focus on scalability, maintainability, and performance.
 
 ---
 
@@ -144,30 +133,45 @@ Leading technical strategy and hands-on development of a SaaS platform for grant
 
 ---
 
-## Current Focus
+## GitHub Activity
 
-- 🔧 **Building:** SaaS platform with Next.js 16, Supabase, and Stripe integration
-- 📚 **Learning:** Advanced system design patterns and cloud architecture
-- 🤝 **Open to:** Full-time roles, consulting projects, and open-source collaboration
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mahdirajaee&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mahdirajaee&show_icons=true&hide_border=true&title_color=0969da&icon_color=0969da&text_color=1f2328&bg_color=00000000" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahdirajaee&show_icons=true&theme=transparent&hide_border=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdirajaee&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdirajaee&layout=compact&hide_border=true&title_color=0969da&text_color=1f2328&bg_color=00000000" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdirajaee&layout=compact&theme=transparent&hide_border=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mahdirajaee&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=mahdirajaee&hide_border=true&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=1f2328&dates=1f2328&currStreakNum=1f2328&sideNums=1f2328&background=00000000" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=mahdirajaee&theme=transparent&hide_border=true" />
+</picture>
+
+</div>
 
 ---
 
-## Let's Connect
+## Current Focus
 
-I'm always interested in discussing technology, architecture decisions, and new opportunities.
+- Building a SaaS platform with Next.js, Supabase, and Stripe
+- Studying advanced system design patterns and cloud architecture
+- Open to full-time roles, consulting, and open-source collaboration
+
+---
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-rajaee-a815a086/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdi.rajaee@studenti.polito.it)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahdirajaee)
 
-**📍 Turin, Italy**
+Turin, Italy
 
 </div>
-
-<div align="center">
-<sub>If you find my work helpful, consider giving it a ⭐</sub>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
