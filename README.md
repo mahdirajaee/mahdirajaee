@@ -2,7 +2,7 @@
 
 # Mahdi Rajaee
 
-**CTO & Full-Stack Engineer | IoT Engineer | Machine Learning Practitioner**
+**CTO & Full-Stack Engineer At Bandoeasy.it | IoT Engineer | Machine Learning Practitioner**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-rajaee-a815a086/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mahdi.rajaee@studenti.polito.it)
